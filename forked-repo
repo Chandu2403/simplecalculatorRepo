@@ -1,1 +1,16 @@
-
+{
+  "id": 123456789,
+  "name": "mcintro-to-git-and-github",
+  "full_name": "Chandu2403/mcintro-to-git-and-github",
+  "private": false,
+  "owner": {
+    "login": "Chandu2403",
+    "type": "User"
+  },
+  "html_url": "https://github.com/Chandu2403/mcintro-to-git-and-github",
+  "description": "Introduction to Git and GitHub",
+  "fork": true,
+  "url": "https://api.github.com/repos/Chandu2403/mcintro-to-git-and-github",
+  "clone_url": "https://github.com/Chandu2403/mcintro-to-git-and-github.git",
+  "default_branch": "main"
+}
